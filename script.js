@@ -134,3 +134,5 @@ function clickOperation(key) {
 function clickEqual() {
     equalEl.click();
 }
+
+// this new age calculater
